@@ -12,8 +12,8 @@ export default function Home() {
           height={20}
           priority
         />
-        test auto deploy using webhook !!!!!!!! six attempsfsfsdfsdfsfsf forth
-        attemp without setting webhook in the repo settings
+        test auto deploy using webhook !!!!!!!! seventh attempsfsfsdfsdfsfsf
+        forth attemp without setting webhook in the repo settings
       </main>
     </div>
   );
