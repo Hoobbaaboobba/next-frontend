@@ -12,7 +12,7 @@ export default function Home() {
           height={20}
           priority
         />
-        auto deploy test
+        auto deploy test 111
       </main>
     </div>
   );
