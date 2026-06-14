@@ -13,8 +13,9 @@ export default function Home() {
           priority
         />
         auto deploy test 1112rwrfdfgdgfdfsdfsdfsd
-        ваываыаываdsfsdfsdfsdfsdfsdfsdfdsfsdfsdf
+        ваываыаываdsfsdfsdfsdfsdfsdfsdfdsfsdfsdf sdfsdfsdfsdf
       </main>
+      a
     </div>
   );
 }
