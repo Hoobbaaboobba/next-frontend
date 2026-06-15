@@ -13,7 +13,7 @@ export default function Home() {
           priority
         />
         auto deploy test 1112rwrfdfgdgfdfsdfsdfsd
-        ваываыаываdsfsdfsdfsdfsdfsdfsdfdsfsdfsdf sdfsdfsdfsdf
+        ваываыаываdsfsdfsdfsdfsdfsdfsdfdsfsdfsdf sdfsdfsdfsdfфывфы
       </main>
       a
     </div>
